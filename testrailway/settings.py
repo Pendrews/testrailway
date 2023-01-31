@@ -133,4 +133,4 @@ MEDIA_URL = '/media/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-CSRF_TRUSTED_ORIGINS = ['https://web-production-c3d7.up.railway.app/']
+CSRF_TRUSTED_ORIGINS = ['https://testrailways.up.railway.app']
